@@ -5,17 +5,19 @@ import './index.css';
 // import App from './TASK2/App';
 
 //TASK3
-import App from './TASK3/App';
+// import App from './TASK3/App';
+
+//TASK35
+// import App from './TASK3.5/App';
+
+//TASK4
+import App from './TASK4/App';
 
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
 
-      {/*TASK2*/}
-    {/*<App />*/}
-
-      {/*TASK3*/}
       <App />
   </React.StrictMode>,
   document.getElementById('root')

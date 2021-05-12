@@ -1,0 +1,12 @@
+button{
+    height: 20px;
+    width: 100px;
+    margin-bottom: 20px;
+    margin-left: 30px;
+
+}
+.column{
+    border-bottom: 1px solid black;
+    display: flex;
+    flex-direction: column;
+}

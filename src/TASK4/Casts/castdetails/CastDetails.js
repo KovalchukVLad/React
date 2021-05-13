@@ -9,7 +9,7 @@ export default function CastDetails({casting, state}){
 
     return(
         <div>
-            details about user {casting} <br/>
+            details about user {casting}<br/>
             {det.name} - {det.born}
             <hr/>
             Full info <br/>

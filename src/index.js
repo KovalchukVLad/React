@@ -11,7 +11,13 @@ import './index.css';
 // import App from './TASK3.5/App';
 
 //TASK4
-import App from './TASK4/App';
+// import App from './TASK4/App';
+
+//TASK51
+import App from './TASK51/App';
+
+//TASK52
+// import App from './TASK52/App';
 
 import reportWebVitals from './reportWebVitals';
 

@@ -1,0 +1,47 @@
+.main{
+    background-color: #B9EBE1;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.items{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-bottom: 3px solid black;
+}
+.items_text{
+    display: flex;
+    justify-content: space-between;
+}
+.title{
+    font-size: 30px;
+    font-weight: 600;
+    margin-right: 100px;
+}
+.price{
+    font-size: 30px;
+    display: flex;
+}
+.imag{
+    width: 45%;
+    align-self: center;
+    margin-bottom: 20px;
+}
+
+.buttons{
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 30px;
+
+}
+.desription_button{
+    font-size: 26px;
+    font-weight: 600;
+    width: 230px;
+    height: 50px;
+    border: 5px solid #0c5648;
+    background-color: #2bbfa0;
+}

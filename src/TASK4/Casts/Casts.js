@@ -2,7 +2,9 @@ import {getCasts} from "../services/api";
 import Cast from "./Cast/Cast";
 import {useEffect, useState} from "react";
 
-export default function Casts({match: {url}}){
+export default function Casts(props){
+    let {match: {url}} = props;
+    console.log(url);
     // console.log(url);
     let [cast, setcast] = useState([]);
 

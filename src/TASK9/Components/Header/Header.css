@@ -1,0 +1,18 @@
+.header{
+    background-color: #a1b8d9;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 4px solid black;
+    border-top: 4px solid black;
+}
+.header-left {
+    margin-left: 30px;
+}
+.header-right {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 30px;
+}
+.header-right-one{
+    margin-right: 25px;
+}
